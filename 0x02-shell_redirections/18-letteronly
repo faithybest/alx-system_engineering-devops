@@ -1,2 +1,1 @@
 #!/bin/bash
-grep ^[[:alpah:]] /etc/ssh/sshd_config
